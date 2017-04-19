@@ -1,0 +1,314 @@
+.button{
+width:130px;
+padding:0 20px 0 20px
+}
+.buttonme_hijau{
+ position:relative;
+  margin: 15px 0px 0px 0px;
+  float: center;
+  color: #fff;
+  background-color: #083508;
+  background-repeat: repeat-x;
+  background-image: -khtml-gradient(linear, left top, left bottom, from(#106a10), to(#083508));
+  background-image: -moz-linear-gradient(top, #106a10, #083508);
+  background-image: -ms-linear-gradient(top, #106a10, #083508);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #106a10), color-stop(100%, #083508));
+  background-image: -webkit-linear-gradient(top, #106a10, #083508);
+  background-image: -o-linear-gradient(top, #106a10, #083508);
+  background-image: linear-gradient(top, #106a10, #083508);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#106a10', endColorstr='#083508', GradientType=0);
+  border-color: #083508 #083508 #e4c652;
+  border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+  border-width: 1px;
+  border-style: solid;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.25);
+  -moz-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.25);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.25);
+  text-decoration:none;
+  padding:5px 10px 5px 20px;
+  padding-left:28px;
+  padding-right:28px;
+  margin:5px 2px 5px 2px;
+}
+.buttonme_hijau:hover{
+  background-repeat: repeat-x;
+  background-image: -khtml-gradient(linear, left top, left bottom, from(#0d580d), to(#106a10));
+  background-image: -moz-linear-gradient(top, #0d580d, #106a10);
+  background-image: -ms-linear-gradient(top, #0d580d, #106a10);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #0d580d), color-stop(100%, #106a10));
+  background-image: -webkit-linear-gradient(top, #0d580d, #106a10);
+  background-image: -o-linear-gradient(top, #0d580d, #106a10);
+  background-image: linear-gradient(top, #0d580d, #106a10);
+}
+.buttonme_hijau:active{
+  background-repeat: repeat-x;
+  background-image: -khtml-gradient(linear, left top, left bottom, from(#106a10), to(#0d580d));
+  background-image: -moz-linear-gradient(top, #106a10, #0d580d);
+  background-image: -ms-linear-gradient(top, #106a10, #0d580d);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #106a10), color-stop(100%, #0d580d));
+  background-image: -webkit-linear-gradient(top, #106a10, #0d580d);
+  background-image: -o-linear-gradient(top, #106a10, #0d580d);
+  background-image: linear-gradient(top, #106a10, #0d580d);
+}
+
+.buttonme_merah{
+ position:relative;
+  margin: 15px 0px 0px 0px;
+  float: center;
+  color: #fff;
+  background-color: #741014;
+  background-repeat: repeat-x;
+  background-image: -khtml-gradient(linear, left top, left bottom, from(#a1161c), to(#741014));
+  background-image: -moz-linear-gradient(top, #a1161c, #741014);
+  background-image: -ms-linear-gradient(top, #a1161c, #741014);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #a1161c), color-stop(100%, #741014));
+  background-image: -webkit-linear-gradient(top, #a1161c, #741014);
+  background-image: -o-linear-gradient(top, #a1161c, #741014);
+  background-image: linear-gradient(top, #a1161c, #741014);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#a1161c', endColorstr='#741014', GradientType=0);
+  border-color: #741014 #741014 #e4c652;
+  border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+  border-width: 1px;
+  border-style: solid;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.25);
+  -moz-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.25);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.25);
+  text-decoration:none;
+  padding:5px 10px 5px 20px;
+  padding-left:28px;
+  padding-right:28px;
+  margin:5px 2px 5px 2px;
+}
+.buttonme_merah:hover{
+  background-repeat: repeat-x;
+  background-image: -khtml-gradient(linear, left top, left bottom, from(#861217), to(#a1161c));
+  background-image: -moz-linear-gradient(top, #861217, #a1161c);
+  background-image: -ms-linear-gradient(top, #861217, #a1161c);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #861217), color-stop(100%, #a1161c));
+  background-image: -webkit-linear-gradient(top, #861217, #a1161c);
+  background-image: -o-linear-gradient(top, #861217, #a1161c);
+  background-image: linear-gradient(top, #861217, #a1161c);
+}
+.buttonme_merah:active{
+  background-repeat: repeat-x;
+  background-image: -khtml-gradient(linear, left top, left bottom, from(#a1161c), to(#861217));
+  background-image: -moz-linear-gradient(top, #a1161c, #861217);
+  background-image: -ms-linear-gradient(top, #a1161c, #861217);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #a1161c), color-stop(100%, #861217));
+  background-image: -webkit-linear-gradient(top, #a1161c, #861217);
+  background-image: -o-linear-gradient(top, #a1161c, #861217);
+  background-image: linear-gradient(top, #a1161c, #861217);
+}
+
+.buttonme_biru{
+ position:relative;
+  margin: 15px 0px 0px 0px;
+  float: center;
+  color: #fff;
+  background-color: #0d0c45;
+  background-repeat: repeat-x;
+  background-image: -khtml-gradient(linear, left top, left bottom, from(#191781), to(#0d0c45));
+  background-image: -moz-linear-gradient(top, #191781, #0d0c45);
+  background-image: -ms-linear-gradient(top, #191781, #0d0c45);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #191781), color-stop(100%, #0d0c45));
+  background-image: -webkit-linear-gradient(top, #191781, #0d0c45);
+  background-image: -o-linear-gradient(top, #191781, #0d0c45);
+  background-image: linear-gradient(top, #191781, #0d0c45);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#191781', endColorstr='#0d0c45', GradientType=0);
+  border-color: #0d0c45 #0d0c45 #e4c652;
+  border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+  border-width: 1px;
+  border-style: solid;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.25);
+  -moz-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.25);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.25);
+  text-decoration:none;
+  padding:5px 10px 5px 20px;
+  padding-left:28px;
+  padding-right:28px;
+  margin:5px 2px 5px 2px;
+}
+.buttonme_biru:hover{
+  background-repeat: repeat-x;
+  background-image: -khtml-gradient(linear, left top, left bottom, from(#161470), to(#191781));
+  background-image: -moz-linear-gradient(top, #161470, #191781);
+  background-image: -ms-linear-gradient(top, #161470, #191781);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #161470), color-stop(100%, #191781));
+  background-image: -webkit-linear-gradient(top, #161470, #191781);
+  background-image: -o-linear-gradient(top, #161470, #191781);
+  background-image: linear-gradient(top, #161470, #191781);
+}
+.buttonme_biru:active{
+  background-repeat: repeat-x;
+  background-image: -khtml-gradient(linear, left top, left bottom, from(#191781), to(#161470));
+  background-image: -moz-linear-gradient(top, #191781, #161470);
+  background-image: -ms-linear-gradient(top, #191781, #161470);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #191781), color-stop(100%, #161470));
+  background-image: -webkit-linear-gradient(top, #191781, #161470);
+  background-image: -o-linear-gradient(top, #191781, #161470);
+  background-image: linear-gradient(top, #191781, #161470);
+}
+
+.buttonme_default{
+ position:relative;
+  margin: 15px 0px 0px 0px;
+  float: center;
+  color: #fff;
+  background-color: #3e3c3d;
+  background-repeat: repeat-x;
+  background-image: -khtml-gradient(linear, left top, left bottom, from(#635f60), to(#3e3c3d));
+  background-image: -moz-linear-gradient(top, #635f60, #3e3c3d);
+  background-image: -ms-linear-gradient(top, #635f60, #3e3c3d);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #635f60), color-stop(100%, #3e3c3d));
+  background-image: -webkit-linear-gradient(top, #635f60, #3e3c3d);
+  background-image: -o-linear-gradient(top, #635f60, #3e3c3d);
+  background-image: linear-gradient(top, #635f60, #3e3c3d);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#635f60', endColorstr='#3e3c3d', GradientType=0);
+  border-color: #3e3c3d #3e3c3d #e4c652;
+  border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+  border-width: 1px;
+  border-style: solid;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.25);
+  -moz-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.25);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.25);
+  text-decoration:none;
+  padding:5px 10px 5px 20px;
+  padding-left:28px;
+  padding-right:28px;
+  margin:5px 2px 5px 2px;
+}
+.buttonme_default:hover{
+  background-repeat: repeat-x;
+  background-image: -khtml-gradient(linear, left top, left bottom, from(#535051), to(#635f60));
+  background-image: -moz-linear-gradient(top, #535051, #635f60);
+  background-image: -ms-linear-gradient(top, #535051, #635f60);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #535051), color-stop(100%, #635f60));
+  background-image: -webkit-linear-gradient(top, #535051, #635f60);
+  background-image: -o-linear-gradient(top, #535051, #635f60);
+  background-image: linear-gradient(top, #535051, #635f60);
+}
+.buttonme_default:active{
+  background-repeat: repeat-x;
+  background-image: -khtml-gradient(linear, left top, left bottom, from(#635f60), to(#535051));
+  background-image: -moz-linear-gradient(top, #635f60, #535051);
+  background-image: -ms-linear-gradient(top, #635f60, #535051);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #635f60), color-stop(100%, #535051));
+  background-image: -webkit-linear-gradient(top, #635f60, #535051);
+  background-image: -o-linear-gradient(top, #635f60, #535051);
+  background-image: linear-gradient(top, #635f60, #535051);
+}
+.buttonme_ungu{
+  position:relative;
+  margin: 15px 0px 0px 0px;
+  float: center;
+  color: #fff;
+  background-color: #582153;
+  background-repeat: repeat-x;
+  background-image: -khtml-gradient(linear, left top, left bottom, from(#85327c), to(#582153));
+  background-image: -moz-linear-gradient(top, #85327c, #582153);
+  background-image: -ms-linear-gradient(top, #85327c, #582153);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #85327c), color-stop(100%, #582153));
+  background-image: -webkit-linear-gradient(top, #85327c, #582153);
+  background-image: -o-linear-gradient(top, #85327c, #582153);
+  background-image: linear-gradient(top, #85327c, #582153);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#85327c', endColorstr='#582153', GradientType=0);
+  border-color: #582153 #582153 #e4c652;
+  border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+  border-width: 1px;
+  border-style: solid;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.25);
+  -moz-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.25);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.25);
+  text-decoration:none;
+  padding:5px 10px 5px 20px;
+  padding-left:28px;
+  padding-right:28px;
+  margin:5px 2px 5px 2px;
+}
+.buttonme_ungu:hover{
+  background-repeat: repeat-x;
+  background-image: -khtml-gradient(linear, left top, left bottom, from(#60245a), to(#85327c));
+  background-image: -moz-linear-gradient(top, #60245a, #85327c);
+  background-image: -ms-linear-gradient(top, #60245a, #85327c);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #60245a), color-stop(100%, #85327c));
+  background-image: -webkit-linear-gradient(top, #60245a, #85327c);
+  background-image: -o-linear-gradient(top, #60245a, #85327c);
+  background-image: linear-gradient(top, #60245a, #85327c);
+}
+.buttonme_ungu:active{
+  background-repeat: repeat-x;
+  background-image: -khtml-gradient(linear, left top, left bottom, from(#85327c), to(#60245a));
+  background-image: -moz-linear-gradient(top, #85327c, #60245a);
+  background-image: -ms-linear-gradient(top, #85327c, #60245a);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #85327c), color-stop(100%, #60245a));
+  background-image: -webkit-linear-gradient(top, #85327c, #60245a);
+  background-image: -o-linear-gradient(top, #85327c, #60245a);
+  background-image: linear-gradient(top, #85327c, #60245a);
+}
+.buttonme_birulaut{
+  width:130px;
+  position:relative;
+  margin: 15px 0px 0px 0px;
+  float: center;
+  color: #fff;
+  background-color: #274749;
+  background-repeat: repeat-x;
+  background-image: -khtml-gradient(linear, left top, left bottom, from(#3c6e70), to(#274749));
+  background-image: -moz-linear-gradient(top, #3c6e70, #274749);
+  background-image: -ms-linear-gradient(top, #3c6e70, #274749);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #3c6e70), color-stop(100%, #274749));
+  background-image: -webkit-linear-gradient(top, #3c6e70, #274749);
+  background-image: -o-linear-gradient(top, #3c6e70, #274749);
+  background-image: linear-gradient(top, #3c6e70, #274749);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#3c6e70', endColorstr='#274749', GradientType=0);
+  border-color: #274749 #274749 #e4c652;
+  border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+  border-width: 1px;
+  border-style: solid;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.25);
+  -moz-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.25);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.25);
+  text-decoration:none;
+  padding:5px 10px 5px 20px;
+  padding-left:28px;
+  padding-right:28px;
+  margin:5px 2px 5px 2px;
+}
+.buttonme_birulaut:hover{
+  background-repeat: repeat-x;
+  background-image: -khtml-gradient(linear, left top, left bottom, from(#325b5d), to(#3c6e70));
+  background-image: -moz-linear-gradient(top, #325b5d, #3c6e70);
+  background-image: -ms-linear-gradient(top, #325b5d, #3c6e70);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #325b5d), color-stop(100%, #3c6e70));
+  background-image: -webkit-linear-gradient(top, #325b5d, #3c6e70);
+  background-image: -o-linear-gradient(top, #325b5d, #3c6e70);
+  background-image: linear-gradient(top, #325b5d, #3c6e70);
+}
+.buttonme_birulaut:active{
+  background-repeat: repeat-x;
+  background-image: -khtml-gradient(linear, left top, left bottom, from(#3c6e70), to(#325b5d));
+  background-image: -moz-linear-gradient(top, #3c6e70, #325b5d);
+  background-image: -ms-linear-gradient(top, #3c6e70, #325b5d);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #3c6e70), color-stop(100%, #325b5d));
+  background-image: -webkit-linear-gradient(top, #3c6e70, #325b5d);
+  background-image: -o-linear-gradient(top, #3c6e70, #325b5d);
+  background-image: linear-gradient(top, #3c6e70, #325b5d);
+}

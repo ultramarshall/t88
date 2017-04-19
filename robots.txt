@@ -1,0 +1,25 @@
+User-agent: Mediapartners-Google
+Disallow:
+User-agent: Googlebot
+Disallow: /*.js$
+Disallow: /*.inc$
+Disallow: /*.css$
+Disallow: /*?*
+Disallow: /*?
+
+User-agent: ia_archiver
+Disallow: /
+
+User-agent: duggmirror
+Disallow: /
+
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /trackback/
+Disallow: /feed/
+Disallow: /tag/
+Disallow: /author/
+Disallow: /category/
+Disallow: /livescore.php
+
+Sitemap: http://taruhan88.com/sitemap.xml

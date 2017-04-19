@@ -1,0 +1,3 @@
+<table width="926px" border="0" cellspacing="0" cellpadding="0" align="center" style="position:static">
+    <th valign="middle" width="95px"><img src="images/infoterkini.png" alt="Info Terkini" /></th><th valign="middle" width="9px"><img src="images/runningtextleft.png" /></th><th style="background-image:url(images/runningtext.png)" width="882px"><font color="#FFFFFF" size="2"><marquee behavior="scroll" scrollamount="4"><?php echo $_SESSION['runningtext'];?></marquee></font></th><th valign="middle" width="5px"><img src="images/runningtextright.png" /></th>
+	</table>

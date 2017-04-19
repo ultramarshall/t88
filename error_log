@@ -1,0 +1,21 @@
+[06-Jan-2014 00:23:58] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/mitrasbo/public_html/koneksi.php on line 6
+[06-Jan-2014 00:23:58] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'mitrasbo'@'localhost' (using password: NO) in /home/mitrasbo/public_html/koneksi.php on line 7
+[06-Jan-2014 00:23:58] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/mitrasbo/public_html/koneksi.php on line 7
+[06-Jan-2014 13:23:58] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mitrasbo'@'localhost' (using password: NO) in /home/mitrasbo/public_html/index.php on line 22
+[06-Jan-2014 13:23:58] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mitrasbo/public_html/index.php on line 22
+[06-Jan-2014 13:23:58] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mitrasbo/public_html/index.php on line 23
+[06-Jan-2014 13:23:58] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mitrasbo'@'localhost' (using password: NO) in /home/mitrasbo/public_html/slider.php on line 66
+[06-Jan-2014 13:23:58] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mitrasbo/public_html/slider.php on line 66
+[06-Jan-2014 13:23:58] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mitrasbo/public_html/slider.php on line 68
+[21-Jul-2014 23:52:58 UTC] PHP Notice:  Undefined variable: Body in /home/dewamantap168/public_html/taruhan88.com/s_daftar.php on line 24
+[22-Jul-2014 04:34:59 UTC] PHP Notice:  Undefined variable: Body in /home/dewamantap168/public_html/taruhan88.com/s_daftar.php on line 24
+[22-Jul-2014 07:58:39 UTC] PHP Notice:  Undefined variable: Body in /home/dewamantap168/public_html/taruhan88.com/s_daftar.php on line 24
+[22-Jul-2014 08:39:27 UTC] PHP Notice:  Undefined variable: Body in /home/dewamantap168/public_html/taruhan88.com/s_daftar.php on line 24
+[22-Jul-2014 09:02:48 UTC] PHP Notice:  Undefined variable: Body in /home/dewamantap168/public_html/taruhan88.com/s_daftar.php on line 24
+[22-Jul-2014 09:44:49 UTC] PHP Notice:  Undefined variable: Body in /home/dewamantap168/public_html/taruhan88.com/s_daftar.php on line 24
+[22-Jul-2014 11:10:33 UTC] PHP Notice:  Undefined variable: Body in /home/dewamantap168/public_html/taruhan88.com/s_daftar.php on line 24
+[22-Jul-2014 13:30:50 UTC] PHP Notice:  Undefined variable: Body in /home/dewamantap168/public_html/taruhan88.com/s_daftar.php on line 24
+[22-Jul-2014 13:54:01 UTC] PHP Notice:  Undefined variable: Body in /home/dewamantap168/public_html/taruhan88.com/s_daftar.php on line 24
+[22-Jul-2014 14:02:26 UTC] PHP Notice:  Undefined variable: Body in /home/dewamantap168/public_html/taruhan88.com/s_daftar.php on line 24
+[22-Jul-2014 16:21:48 UTC] PHP Notice:  Undefined variable: Body in /home/dewamantap168/public_html/taruhan88.com/s_daftar.php on line 24
+[22-Jul-2014 17:15:05 UTC] PHP Notice:  Undefined variable: Body in /home/dewamantap168/public_html/taruhan88.com/s_daftar.php on line 24
